@@ -4,13 +4,13 @@
 <title>KB Adhesives</title>
 <rect fill="#FFFFFF" width="80" height="80"/>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="28.1424" y1="51.7169" x2="36.2043" y2="23.5286">
-	<stop  offset="0" style="stop-color:#E95A0C"/>
-	<stop  offset="1" style="stop-color:#CC1719"/>
+	<stop  offset="0" stop-color="#E95A0C"/>
+	<stop  offset="1" stop-color="#CC1719"/>
 </linearGradient>
 <polygon fill="url(#SVGID_1_)" points="22.4,53.1 33.1,53.1 41.2,25 30.4,25 "/>
 <linearGradient id="SVGID_00000064339325516049024590000013807775200445244330_" gradientUnits="userSpaceOnUse" x1="27.3377" y1="11.5789" x2="19.2408" y2="39.9962">
-	<stop  offset="0" style="stop-color:#E95A0C"/>
-	<stop  offset="1" style="stop-color:#CC1719"/>
+	<stop  offset="0" stop-color="#E95A0C"/>
+	<stop  offset="1" stop-color="#CC1719"/>
 </linearGradient>
 <polygon fill="url(#SVGID_00000064339325516049024590000013807775200445244330_)" points="13.5,41.2 24.3,41.2 32.3,13 21.6,13 "/>
 <path fill="#575756" d="M50.4,38.5h5l-6.8,6.7l2.8,7.9h-5l-2.6-7.8h0l-2.2,7.8h-4.1l4.2-14.6h4.1l-1.9,6.4h0L50.4,38.5z"/>
